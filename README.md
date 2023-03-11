@@ -1,6 +1,6 @@
 # How to run this visualization
 
-1. Please clone this repository to your local machine using the commands `cd` to change directories to the desired location and `git clone` to copy this repository
+1. Please clone this repository to your local machine using the commands `cd` to change directories to the desired location and `git clone https://github.com/ncasey2218/info474final.git` to copy this repository
 
 2. After cloning this repository, please open the INFO-474-FINAL-PROJ folder in your preferred source-code editor. 
 
