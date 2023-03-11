@@ -1,4 +1,4 @@
-#h1 How to run this visualization
+# How to run this visualization
 
 1. Please clone this repository to your local machine using the commands `cd` to change directories to the desired location and `git clone` to copy this repository
 
