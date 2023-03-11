@@ -1,0 +1,44 @@
+
+body {
+    font-family: "Ubuntu";
+}
+
+#main {
+    margin: 10px 20px;
+    background-color: lightgray;
+}
+
+tr.ha {
+    color:white;
+    background-color: black;
+}
+
+td {
+    font-size: larger;
+}
+
+div.flex-parent-element {
+    display: flex;
+    width: 50%;
+
+  }
+  
+  .flex-child-element {
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .flex-child-element:first-child {
+    margin-right: 20px;
+  }
+
+  h1{
+    font-family: "Ubuntu";
+    text-align: center;
+  }
+
+  #text{
+    font-family: "Ubuntu";
+    text-align: center;
+    font-size: 30px;
+  }
